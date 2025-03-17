@@ -101,5 +101,5 @@ MonoBehaviour:
     gamma: 1
     hue: 0
     saturation: 1
-    affectSceneView: 1
+    affectSceneView: 0
     whenToInsert: 550
