@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1264559e0f30fc4a85d8f98ba2056a3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243911
+  packageName: 'Retro: Old Computers'
+  packageVersion: 2.0.0
+  assetPath: Assets/FronkonGames/Retro/OldComputers/Editor/FronkonGames.Retro.OldComputers.Editor.asmdef
+  uploadId: 740027

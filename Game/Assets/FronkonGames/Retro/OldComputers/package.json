@@ -1,0 +1,16 @@
+{
+  "name": "com.fronkongames.retro.oldcomputers",
+  "version": "2.0.1",
+  "displayName": "Retro: Old Computers",
+  "description": "Emulates the color palettes of old 8-bit and 16-bit computers.",
+  "unity": "2022.3",
+  "unityRelease": "45f1",
+  "dependencies":  {  },
+  "keywords": [ "unity", "retro", "vintage", "old", "computers", "apple", "ibm", "commodore", "msx", "amstrad", "atari", "ega", "cga" ],
+  "author":
+  {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/store/retro/"
+  }
+}

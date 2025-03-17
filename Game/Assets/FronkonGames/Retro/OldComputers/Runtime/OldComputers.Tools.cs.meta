@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 62dafeefce186924da802e43ccffce7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243911
+  packageName: 'Retro: Old Computers'
+  packageVersion: 2.0.0
+  assetPath: Assets/FronkonGames/Retro/OldComputers/Runtime/OldComputers.Tools.cs
+  uploadId: 740027

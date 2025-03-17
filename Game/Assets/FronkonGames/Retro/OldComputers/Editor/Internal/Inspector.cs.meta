@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 528d86a52804a4e49bec60cc11641729
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243911
+  packageName: 'Retro: Old Computers'
+  packageVersion: 2.0.0
+  assetPath: Assets/FronkonGames/Retro/OldComputers/Editor/Internal/Inspector.cs
+  uploadId: 740027

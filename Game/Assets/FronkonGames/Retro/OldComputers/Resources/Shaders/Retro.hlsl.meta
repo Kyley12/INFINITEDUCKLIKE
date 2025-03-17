@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47cb73e86d6165e449b0aeff42c9d8c5
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243911
+  packageName: 'Retro: Old Computers'
+  packageVersion: 2.0.0
+  assetPath: Assets/FronkonGames/Retro/OldComputers/Resources/Shaders/Retro.hlsl
+  uploadId: 740027

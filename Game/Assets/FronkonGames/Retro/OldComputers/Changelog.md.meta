@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef03ad8ee835ee74da0fd16c6e056c20
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243911
+  packageName: 'Retro: Old Computers'
+  packageVersion: 2.0.0
+  assetPath: Assets/FronkonGames/Retro/OldComputers/Changelog.md
+  uploadId: 740027

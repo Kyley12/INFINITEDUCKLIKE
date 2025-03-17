@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8e594eee6ae0c0244b532f84e13d8a0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243911
+  packageName: 'Retro: Old Computers'
+  packageVersion: 2.0.0
+  assetPath: Assets/FronkonGames/Retro/OldComputers/Editor/OldComputersFeatureSettingsDrawer.cs
+  uploadId: 740027
