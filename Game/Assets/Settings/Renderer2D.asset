@@ -28,9 +28,6 @@ MonoBehaviour:
   - {fileID: 6583989371929709474}
   m_RendererFeatureMap: a24bd14673075f5b
   m_UseNativeRenderPass: 0
-  m_LayerMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
   m_TransparencySortMode: 0
   m_TransparencySortAxis: {x: 0, y: 1, z: 0}
   m_HDREmulationScale: 1
@@ -76,7 +73,7 @@ MonoBehaviour:
     samples: 6
     resolution: 2
     yiq: {x: 0.9, y: 1.1, z: 1.5}
-    shadowTint: {r: 0.7, g: 0, b: 0.9, a: 1}
+    shadowTint: {r: 0, g: 0.23899364, b: 0.013483359, a: 1}
     whiteLevel: 1
     blackLevel: 0
     tapeCreaseStrength: 1
@@ -96,10 +93,10 @@ MonoBehaviour:
     bottomWarpDistortion: 0.1
     bottomWarpJitterExtent: 50
     vignette: 0.25
-    brightness: 0
-    contrast: 1
-    gamma: 1
-    hue: 0
-    saturation: 1
+    brightness: -0.072
+    contrast: 0.97
+    gamma: 1.36
+    hue: 0.07
+    saturation: 1.022
     affectSceneView: 0
     whenToInsert: 550
