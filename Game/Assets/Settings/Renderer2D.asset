@@ -73,7 +73,7 @@ MonoBehaviour:
     samples: 6
     resolution: 2
     yiq: {x: 0.9, y: 1.1, z: 1.5}
-    shadowTint: {r: 0, g: 0.23899364, b: 0.013483359, a: 1}
+    shadowTint: {r: 0, g: 0.26415092, b: 0.014408218, a: 1}
     whiteLevel: 1
     blackLevel: 0
     tapeCreaseStrength: 1
